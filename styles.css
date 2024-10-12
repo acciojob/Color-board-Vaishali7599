@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.square{
+	height: 10px;
+	width: 10px;
+	background: rgb(29, 29, 29);
+}
+.container{
+	padding: 20px;
+	height: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+
+}
+*{
+	background-color: #1a032f;
+	padding: 0;
+	margin: 0;
+}
